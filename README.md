@@ -6,7 +6,7 @@ What is k3s?
 k3s is a lightweight Kubernetes distribution developed by Rancher Labs. Some key features of k3s:
 
     • Easy to install - runs on any infrastructure including Raspberry Pi
-   
+  
     • Lightweight - low memory and storage resource usage
    
     • Fast startup time compared to Kubernetes
